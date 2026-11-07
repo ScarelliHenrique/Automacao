@@ -1,5 +1,5 @@
-Recentemente, um amigo me procurou com um desafio no ERP Fiscal: ele precisava excluir manualmente o IPI, ICMS, CSLL e IR de mais de 3.000 notas fiscais por mês devido a um erro de importação. O trabalho era extremamente repetitivo e tedioso, algo que poderia consumir muito tempo e energia.
+Recently, a friend reached out to me with a challenge involving his tax ERP system: due to an import error, he had to manually delete the IPI, ICMS, CSLL, and IR tax entries from over 3,000 invoices every month. The task was extremely repetitive and tedious—a major drain on both time and energy.
 
-Para resolver esse problema, desenvolvemos um código que automatizou todo o processo, eliminando a necessidade de intervenção manual. O resultado foi uma economia significativa de tempo e esforço, permitindo que ele pudesse se concentrar em tarefas mais estratégicas e importantes.
+To address this, we developed a piece of code that automated the entire process, eliminating the need for any manual intervention. The result was a significant saving of time and effort, allowing him to focus on more strategic and important tasks.
 
-Essa experiência reforça a importância da automação para otimizar processos e liberar profissionais de tarefas repetitivas, aumentando a produtividade e a eficiência no ambiente de trabalho.
+This experience underscores the value of automation in streamlining processes and freeing professionals from repetitive work, ultimately boosting productivity and efficiency in the workplace.
